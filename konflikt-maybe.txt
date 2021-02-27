@@ -1,0 +1,4 @@
+Stwórz własne publiczne repozytorium na githubie. Upewnij się, że partner ma dostęp do repozytorium.
+Zapełnij repozytorium kilkoma plikami tekstowymi. Opublikuj repozytorium. Otaguj branch main.!!!!
+Stwórz branch o nazwie zgodnej z workflow. Dokonaj zmian i opublikuj branch. Następnie przełącz się na repozytorium partnera. Przełącz się na stworzony przez niego branch i dokonaj tam zmian. Opublikuj zmiany i wystaw pull request na repozytorium partnera. Zaakceptujcie nawzajem swoje pull requesty. Otagujcie najnowsze zmiany i opublikujcie tagi
+
